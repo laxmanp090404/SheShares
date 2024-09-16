@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+}
+
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+ 
+  font-style: normal;
+  font-weight: bolder;
+}
+
+
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
